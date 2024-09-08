@@ -1,2 +1,2 @@
 # BuildBox
-Cross platform multi purpose build system
+Cross platform multi purpose build system.
